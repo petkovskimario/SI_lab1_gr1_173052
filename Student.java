@@ -1,3 +1,14 @@
+class Course {
+	List<Student> students;
+
+	public void addStudent(){}
+
+	public void removeStudent(){}
+
+
+
+}
+
 class Student {
 	String index;
 	String firstName;
